@@ -10,3 +10,5 @@ Prérequis pour compilation
 -gcc
 sudo apt-get install gcc jansson curl
 
+Pour cloner le script
+sudo apt-get install git && gh repo clone bnjih/ValoStat
